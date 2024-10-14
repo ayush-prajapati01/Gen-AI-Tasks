@@ -1,0 +1,70 @@
+Subject: Leave Request due to Illness - Ayush Prajapati
+From: Ayush Prajapati <ayushp249@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+
+Dear Sir,
+
+I am writing to formally request a leave of absence on October 11, 2024 due
+to illness. I have been experiencing headache, fatigue and mild fever.
+These symptoms are making it difficult for me to perform my work
+effectively and commute to the office.
+
+I apologize for any inconvenience this may cause and assure you that I am
+dedicated to working extra hours to complete any outstanding work.
+
+Thank you for your understanding and consideration.
+
+Sincerely,
+
+Ayush Radheshyam Prajapati
+---END OF EMAIL---
+
+Subject: Request to Work from Home - Ayush Prajapati
+From: Ayush Prajapati <ayushp249@gmail.com>
+To: Gunjan Sharma <gunjan.sharma@bridgelabz.com>
+Dear Sir,
+
+I am writing to request permission to work from home today, 13/08/2024, due
+to a severe headache that is making it difficult for me to commute to the
+office. I have a stable internet connection and a quiet workspace at home.
+I assure you that I will attend all online sessions and complete all tasks
+assigned to me on time.
+Thank you for your understanding and consideration.
+
+Sincerely,
+Ayush Prajapati
+---END OF EMAIL---
+
+Subject: Performance Feedback for Ayush Radheshyam Prajapati
+From: gunjan.sharma@bridgelabz.com
+To: ayushp249@gmail.com
+Cc: gunjan.sharma@bridgelabz.com, farzana.shaikh@bridgelabz.com, neelesh.rawat@bridgelabz.com
+Content-Type: text/plain; charset="UTF-8"; format=flowed; delsp=yes
+
+Dear Ayush Radheshyam Prajapati,
+
+Bridgelabz: Your performance for Week # Wk8 are as follows:
+
+Performance Status: Need Less Help, TRACK Score : 4.42
+
+Average Values so far are:
+
+Technical Ability: 1.45, Learnability: 1.82, Communicability: 0.96
+
+Remark:Technical Summary: Ayush has learnt about NoSQL DB concepts, key  
+values and documents in DB, tables, items, attributes, primary keys,  
+secondary indexes, partition keys, and sort keys in Dynamo DB. He developed  
+a Python script to perform CRUD operations. He has learnt about Redshift.  
+He has explored the features of redshift. He has created the redshift  
+cluster. He uploaded csv files to the S3 bucket. Then created tables in the  
+database and transferred the data using COPY commands.
+
+Technical Feedback: He has knowledge about DynamoDB and its application. He  
+is aware of Amazon Redshift and Redshift Spectrum. He needs to explore  
+CosmoDB vs. DynamoDB.
+
+Soft Skills: He has fine communication skills, demonstrates a preference  
+for a problem-solving approach and is disciplined and ambivert by nature.
+
+Review Date : 20th Sep'24
+---END OF EMAIL---
