@@ -1,0 +1,15 @@
+Product: Smartwatch
+Review: I love this smartwatch! It's stylish and has all the features I wanted. Great product!
+---END OF REVIEW---
+
+Product: Monitor
+Review: The monitor is too expensive for the quality it provides. The resolution is not as good as I expected.
+---END OF REVIEW---
+
+Product: Laptop
+Review: Unable to use this laptop wants to return this
+---END OF REVIEW---
+
+Product: Laptop
+Review: I like the features on this pc. I dont mind on the storage space i got a pendrive for than. The battery stays over eight hours.
+---END OF REVIEW---
